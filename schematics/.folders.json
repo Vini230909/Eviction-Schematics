@@ -1,5 +1,6 @@
 [
-  "weapons",
   "buildings",
-  "vehicles"
+  "upgrades",
+  "vehicles",
+  "weapons"
 ]
