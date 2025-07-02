@@ -1,5 +1,6 @@
 {
   "def_easy.msch": "def_early",
   "6_differensel_generators.msch": "overdrive",
-  "pump.msch": "overdrive"
+  "pump.msch": "overdrive",
+  "instant_4x_spectre_defense.msch": "def_early"
 }
