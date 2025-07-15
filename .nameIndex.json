@@ -20,5 +20,6 @@
   "phase_6x_core.msch": "phase",
   "surge_4x_core_inbuilt_sili.msch": "surge",
   "surge_6x_core_inbuilt_sili.msch": "surge",
-  "surge_2x___phase_2x_core.msch": "resource-mix"
+  "surge_2x___phase_2x_core.msch": "resource-mix",
+  "fuse_offworld.msch": "fuse"
 }
