@@ -10,5 +10,6 @@
   "sili_cruci_3x_sandycore.msch": "silicon",
   "sili_cruci_3x_semi-sandycore.msch": "silicon",
   "sili_cruci_8x_core.msch": "silicon",
-  "graph_multi_5x___press_2x.msch": "graphite"
+  "graph_multi_5x___press_2x.msch": "graphite",
+  "meta_2x_extlead.msch": "meta"
 }
