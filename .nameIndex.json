@@ -23,5 +23,6 @@
   "surge_2x___phase_2x_core.msch": "resource-mix",
   "fuse_offworld.msch": "fuse",
   "defense_cyclone_mid.msch": "cyclone",
-  "flare_7x.msch": "t1"
+  "flare_7x.msch": "t1",
+  "flare_6x_offcore.msch": "t1"
 }
