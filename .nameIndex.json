@@ -12,5 +12,6 @@
   "sili_cruci_8x_core.msch": "silicon",
   "graph_multi_5x___press_2x.msch": "graphite",
   "meta_2x_extlead.msch": "meta",
-  "meta_5x.msch": "meta"
+  "meta_5x.msch": "meta",
+  "meta_11x_core.msch": "meta"
 }
