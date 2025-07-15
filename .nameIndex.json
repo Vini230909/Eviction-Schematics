@@ -19,5 +19,6 @@
   "plast_6x_sandycore.msch": "plast",
   "phase_6x_core.msch": "phase",
   "surge_4x_core_inbuilt_sili.msch": "surge",
-  "surge_6x_core_inbuilt_sili.msch": "surge"
+  "surge_6x_core_inbuilt_sili.msch": "surge",
+  "surge_2x___phase_2x_core.msch": "resource-mix"
 }
