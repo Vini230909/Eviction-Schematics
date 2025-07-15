@@ -6,5 +6,6 @@
   "graphite_multi_3x_on_coal.msch": "graphite",
   "graphite_press_6x_on_coal.msch": "graphite",
   "graphite_multi_3x.msch": "graphite",
-  "sili_smelter_4x___graph_press_1x_extcoal.msch": "silicon"
+  "sili_smelter_4x___graph_press_1x_extcoal.msch": "silicon",
+  "sili_cruci_3x_sandycore.msch": "silicon"
 }
