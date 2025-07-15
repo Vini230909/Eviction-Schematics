@@ -1,5 +1,6 @@
 {
   "sili_smelter_2x_extcoal.msch": "silicon",
   "sili_smelter_6x_extcoal.msch": "silicon",
-  "sili_smelter_4x__graphite_press_2x_extcoal.msch": "silicon"
+  "sili_smelter_4x__graphite_press_2x_extcoal.msch": "silicon",
+  "graphite_press_on_coal.msch": "graphite"
 }
