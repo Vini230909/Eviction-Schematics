@@ -17,5 +17,6 @@
   "plast_4x_core_extoil.msch": "plast",
   "plast_3x_core.msch": "plast",
   "plast_6x_sandycore.msch": "plast",
-  "phase_6x_core.msch": "phase"
+  "phase_6x_core.msch": "phase",
+  "surge_4x_core_inbuilt_sili.msch": "surge"
 }
