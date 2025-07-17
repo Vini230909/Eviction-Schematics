@@ -31,5 +31,6 @@
   "graphite_multi_3x_core_coal.msch": "graphite",
   "graphite_press_6x_on_coal.msch": "graphite",
   "graphite_press_8x_core_coal.msch": "graphite",
-  "plast_6x_sandycore_10tps.msch": "plast"
+  "plast_6x_sandycore_10tps.msch": "plast",
+  "plast_9x_core_dome_def.msch": "plast"
 }
