@@ -25,5 +25,6 @@
   "defense_cyclone_mid.msch": "cyclone",
   "flare_7x.msch": "t1",
   "flare_6x_offcore.msch": "t1",
-  "graph_multi_4x_core_coal.msch": "graphite"
+  "graph_multi_4x_core_coal.msch": "graphite",
+  "sx_sili_smelter_6x_extcoal.msch": "silicon"
 }
