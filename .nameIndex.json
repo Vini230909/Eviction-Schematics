@@ -25,5 +25,6 @@
   "graph_multi_4x_core_coal.msch": "graphite",
   "graphite_multi_3x.msch": "graphite",
   "sili_smelter_6x_extcoal.msch": "silicon",
-  "sili_smelter_2x_comb_extcoal.msch": "silicon"
+  "sili_smelter_2x_comb_extcoal.msch": "silicon",
+  "cruci_4x_multi_2x_core_extsand.msch": "silicon"
 }
