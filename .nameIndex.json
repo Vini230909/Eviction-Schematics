@@ -28,5 +28,6 @@
   "cruci_4x_multi_2x_core_extsand.msch": "silicon",
   "cruci_4x_core_selfeco.msch": "silicon",
   "graph_multi_3x___coal_core_selfeco.msch": "graphite",
-  "graph_multi_7x_core_self_eco.msch": "graphite"
+  "graph_multi_7x_core_self_eco.msch": "graphite",
+  "graphite_multi_3x_core_coal.msch": "graphite"
 }
