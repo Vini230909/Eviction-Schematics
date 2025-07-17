@@ -23,5 +23,6 @@
   "flare_7x.msch": "t1",
   "flare_6x_offcore.msch": "t1",
   "graph_multi_4x_core_coal.msch": "graphite",
-  "sili_smelter_6x_coal.msch": "silicon"
+  "sili_smelter_6x_coal.msch": "silicon",
+  "graphite_multi_3x.msch": "graphite"
 }
