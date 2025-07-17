@@ -30,5 +30,6 @@
   "graph_multi_7x_core_self_eco.msch": "graphite",
   "graphite_multi_3x_core_coal.msch": "graphite",
   "graphite_press_6x_on_coal.msch": "graphite",
-  "graphite_press_8x_core_coal.msch": "graphite"
+  "graphite_press_8x_core_coal.msch": "graphite",
+  "plast_6x_sandycore_10tps.msch": "plast"
 }
